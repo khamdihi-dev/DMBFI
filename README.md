@@ -6,3 +6,10 @@
     $ git clone https://github.com/khamdihi-dev/DMBFI
     $ cd DMBFI
     $ python3 run.py
+### List Harga Premium User
+    1. 25k Durasi Pake 1Minggu
+    2. 50k Durasi Pake 2Minggu
+    3. 75k Durasi Pake 3Minggu
+    4. 100k Durasi Pake 1 Bulan
+    5. 250k Open Source Code
+
