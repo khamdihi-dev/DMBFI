@@ -12,4 +12,6 @@
     3. 75k Durasi Pake 3Minggu
     4. 100k Durasi Pake 1 Bulan
     5. 250k Open Source Code
+### Sosial Media
+    1. WhatsApp 085729416714
 
