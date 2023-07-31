@@ -13,5 +13,10 @@
     4. 100k Durasi Pake 1 Bulan
     5. 250k Open Source Code
 ### Sosial Media
-    1. WhatsApp 085729416714
+[![](https://img.shields.io/badge/Instagram-pink?logo=Instagram&logoColor=pink&labelColor=white)](https://www.instagram.com/cython.id)
+[![](https://img.shields.io/badge/Whatsapp-white?logo=Whatsapp&logoColor=Brightgreen&labelColor=white)](https://wa.me/6285729416714?text=Asalamualaikum+bang)<br>
+
+
+
+
 
